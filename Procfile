@@ -1,1 +1,1 @@
-web: gunicorn escala.wsgi
+web: gunicorn escala_project.wsgi
